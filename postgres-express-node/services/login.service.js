@@ -36,6 +36,8 @@ class LoginService {
       return {user,token};
     }
 
+
+    this.logger.error('invalid password');
     throw new Error('Authentication failed');
 
   }
