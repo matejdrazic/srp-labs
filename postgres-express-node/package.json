@@ -22,7 +22,7 @@
     "morgan": "^1.10.0",
     "pg": "^8.3.3",
     "pg-hstore": "^2.3.3",
-    "rate-limiter-flexible": "^2.1.13",
+    "rate-limiter-flexible": "^2.1.14",
     "sequelize": "^6.3.5",
     "winston": "^3.3.3"
   },
